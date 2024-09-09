@@ -1,11 +1,8 @@
 <h2 align="left">Olá 👋! Meu nome é PauloCaninde e sou desenvolvedor Front-End do Brasil</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloCaninde&show_icons=true&theme=dark" height="150" alt="gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloCaninde&layout=compact&theme=dark" height="150" alt="gráfico de linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devpaulocaninde&show_icons=true&theme=dark" alt="gráfico de estatísticas" />
 </div>
-
-
 
 
 <div align="left">
