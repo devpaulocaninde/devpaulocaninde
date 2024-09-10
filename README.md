@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Paulo Caninde e sou desenvolvedor Front-End</h2>
+<h2 align="left">Olá 👋! Meu nome é Paulo Canindé e sou desenvolvedor Front-End</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devpaulocaninde&show_icons=true&theme=dark" alt="gráfico de estatísticas" />
